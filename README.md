@@ -1,2 +1,1 @@
-# bharat_intern-web_development-internship_task_3
- Bharat Intern Web Developer Intern
+**A HTML/CSS based Netflix-Clone**
